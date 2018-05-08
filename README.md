@@ -11,6 +11,8 @@ Todos el código lo ejecutaré en Jupyter Notebook, podéis instalarlo tal como 
 
 ## Índice
 
+Haz clic en el título de la sección para acceder a los apuntes.
+
 ### [1 - Introducción](https://nbviewer.jupyter.org/github/hcosta/Tutorial-Epico-de-Python-en-un-video/blob/master/01%20-%20Introducci%C3%B3n.ipynb)
 
 * Comentarios
@@ -19,7 +21,7 @@ Todos el código lo ejecutaré en Jupyter Notebook, podéis instalarlo tal como 
 * Salida por pantalla
 * Entrada por teclado
 
-### 2 - Tipos de datos
+### [2 - Tipos de datos](https://nbviewer.jupyter.org/github/hcosta/Tutorial-Epico-de-Python-en-un-video/blob/master/02%20-%20Tipos%20de%20datos.ipynb)
 
 * Números
 * Cadenas
@@ -28,7 +30,7 @@ Todos el código lo ejecutaré en Jupyter Notebook, podéis instalarlo tal como 
 * Diccionarios
 * Booleanos
 
-### 3 - Programación estructurada
+### [3 - Programación estructurada](https://nbviewer.jupyter.org/github/hcosta/Tutorial-Epico-de-Python-en-un-video/blob/master/03%20-%20Programaci%C3%B3n%20estructurada.ipynb)
 
 * Expresiones
 * Condición if
@@ -36,7 +38,7 @@ Todos el código lo ejecutaré en Jupyter Notebook, podéis instalarlo tal como 
 * Bucle for .. in
 * Funciones
 
-### 4 - Programación orientada a objetos
+### [4 - Programación orientada a objetos](https://nbviewer.jupyter.org/github/hcosta/Tutorial-Epico-de-Python-en-un-video/blob/master/04%20-%20Programaci%C3%B3n%20orientada%20a%20objetos.ipynb)
 
 * Clases y objetos
 * Atributos y métodos
@@ -46,7 +48,7 @@ Todos el código lo ejecutaré en Jupyter Notebook, podéis instalarlo tal como 
 * Herencia de clases
 * Polimorfismo
 
-### 5 - Otros conceptos
+### [5 - Otros conceptos](https://nbviewer.jupyter.org/github/hcosta/Tutorial-Epico-de-Python-en-un-video/blob/master/05%20-%20Otros%20conceptos.ipynb)
 
 * Fechas y horas
 * Comprensión de listas
