@@ -11,7 +11,7 @@ Todos el código lo ejecutaré en Jupyter Notebook, podéis instalarlo tal como 
 
 ## Índice
 
-### 1 - Introducción
+### 1 - Introducción [Ir a los apuntes](https://nbviewer.jupyter.org/github/hcosta/Tutorial-Epico-de-Python-en-un-video/blob/master/01%20-%20Introducci%C3%B3n.ipynb)
 
 * Comentarios
 * Literales
